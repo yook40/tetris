@@ -1,3 +1,3 @@
 # tetris
-Project Description
+Project Description.\\
 This is a classic game.
